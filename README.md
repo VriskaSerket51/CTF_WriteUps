@@ -5,7 +5,7 @@ Total 14 write-ups
 
 ## WEB
 - [Aspiring Calculator](aspiring-calculator/README.md)
-- [PHP Practice](php-practive/README.md)
+- [PHP Practice](php-practice/README.md)
 
 ## CRYPTOGRAPHY
 - [Custom ECB Cipher](custom-ecb-cipher/README.md)
