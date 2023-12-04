@@ -4,26 +4,26 @@ WriteUps for TUCTF2023
 Total 14 write-ups
 
 WEB
-- [Aspiring Calculator](aspiring-calculator)
-- [PHP Practice](php-practive)
+- [Aspiring Calculator](aspiring-calculator/README.md)
+- [PHP Practice](php-practive/README.md)
 
 CRYPTOGRAPHY
-- [Custom ECB Cipher](custom-ecb-cipher)
-- [Keyboard Cipher](keyboard-cipher)
-- [Never Ending Crypto: Taylor's Version](never-ending-crypto-taylors-version)
+- [Custom ECB Cipher](custom-ecb-cipher/README.md)
+- [Keyboard Cipher](keyboard-cipher/README.md)
+- [Never Ending Crypto: Taylor's Version](never-ending-crypto-taylors-version/README.md)
 
 PROGRAMMING
-- [Bludgeon the Booty](bludgeon-the-booty)
-- [CaRLsLabrinth](carlslabrinth)
-- [Cube (2023)](cube-2023)
-- [Hacker Typer](hacker-typer)
-- [Plenty O Fish in the Sea](plenty-o-fish-in-the-sea)
-- [Secret Agent](secret-agent)
+- [Bludgeon the Booty](bludgeon-the-booty/README.md)
+- [CaRLsLabrinth](carlslabrinth/README.md)
+- [Cube (2023/README.md)](cube-2023/README.md)
+- [Hacker Typer](hacker-typer/README.md)
+- [Plenty O Fish in the Sea](plenty-o-fish-in-the-sea/README.md)
+- [Secret Agent](secret-agent/README.md)
 
 PWNABLE
-- [Hidden Value](hidden-value)
+- [Hidden Value](hidden-value/README.md)
 
 MISC
-- [A.R.K. 4](ark-4)
-- [Silly Registry](silly-registry)
+- [A.R.K. 4](ark-4/README.md)
+- [Silly Registry](silly-registry/README.md)
 
