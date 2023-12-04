@@ -8,9 +8,11 @@ p.recvuntil("KEY:")
 p.sendline("111111111111111111111111111111111111111111111111")
 p.recvuntil("Select an Option:")
 
+
 def option1():
     p.sendline("1")
     p.recvuntil("Select an Option:")
+
 
 def option2():
     p.sendline("2")
@@ -29,14 +31,17 @@ def option2():
             maps[current] = (desc, options)
         p.recvuntil("Next Location to Investigate:")
         p.sendline(input())
-    
+
         print(maps)
+
 
 def option3():
     p.sendline("3")
     p.recvuntil("Next Best Path to Take:")
-    path = ["Charity", "Emell", "Iyona", "Kepliker", "Osiros", "Rhenora", "Shariot"]
+    path = ["Charity", "Emell", "Iyona",
+            "Kepliker", "Osiros", "Rhenora", "Shariot"]
     # Send each path, send 'done' at last
+
 
 def option4():
     p.sendline("4")
@@ -47,6 +52,7 @@ def option4():
     # Decode bytes with UTF-8
     p.recvuntil("our flag")
     context.log_level = ""
+
 
 def option5():
     p.sendline("5")
