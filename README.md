@@ -2,7 +2,6 @@
 WriteUps for TUCTF2023
 
 Total 14 write-ups
-=============
 
 ## WEB
 - [Aspiring Calculator](aspiring-calculator/README.md)
