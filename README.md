@@ -1,2 +1,2 @@
-# WriteUps
-WriteUps for CTF
+# TUCTF2023 WriteUps
+WriteUps for TUCTF2023
