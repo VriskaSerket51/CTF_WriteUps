@@ -8,7 +8,7 @@ async function main() {
       accept: "*/*",
     },
   });
-  
+
   let text = await resp.text();
   let word = text.split('"word-title">')[1].split("</strong>")[0];
 
@@ -24,7 +24,6 @@ async function main() {
     text = await resp.text();
     console.log(text);
     word = JSON.parse(text).next_word;
-    // return;
   }
 }
 
