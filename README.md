@@ -15,7 +15,7 @@ CRYPTOGRAPHY
 PROGRAMMING
 - [Bludgeon the Booty](bludgeon-the-booty/README.md)
 - [CaRLsLabrinth](carlslabrinth/README.md)
-- [Cube (2023/README.md)](cube-2023/README.md)
+- [Cube (2023)](cube-2023/README.md)
 - [Hacker Typer](hacker-typer/README.md)
 - [Plenty O Fish in the Sea](plenty-o-fish-in-the-sea/README.md)
 - [Secret Agent](secret-agent/README.md)
