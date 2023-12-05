@@ -11,6 +11,7 @@ Total 14 write-ups
 - [Custom ECB Cipher](custom-ecb-cipher/README.md)
 - [Keyboard Cipher](keyboard-cipher/README.md)
 - [Never Ending Crypto: Taylor's Version](never-ending-crypto-taylors-version/README.md)
+- [Table Encryption](table-encryption/README.md)
 
 ## PROGRAMMING
 - [Bludgeon the Booty](bludgeon-the-booty/README.md)
