@@ -1,0 +1,19 @@
+# As a programmer ...
+
+e = 3, and n looks much bigger than flag.
+
+So, we can assume that c = m^3.
+
+```python
+# !pip install gmpy2
+import gmpy2
+
+c = 102440249906188112653112850149004638920041731819150591992314684890766079962216378675563173361005618897820395598884602786493326797681447423552807411034991287447489220834908286512061803086201262036007513517016439047998253997542610533
+
+m, _ = gmpy2.iroot(c, 3)
+bytes.fromhex(hex(int(m))[2:])
+```
+
+> b'grodno{Sm4ll_e_1s_e4sy_t0_br3ak}'
+
+flag is: **grodno{Sm4ll_e_1s_e4sy_t0_br3ak}**
